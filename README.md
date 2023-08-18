@@ -20,3 +20,8 @@ With its three-pronged approach, the FCV Project addresses critical privacy cons
 
 - Watch 'FCV Project Demo.mkv' for a Pre-Recorded Working Demo.
 - Refer to 'FCV_Project_Report.pdf' and 'FCV Project.pptx' for More Details.
+
+
+# To utilize the complete project, including the code and essential files, download the complete folder from the following link:
+
+https://drive.google.com/file/d/1GQMtjgeO6Zz0SXc7JoaQjyajECXIV3T8/view?usp=drive_link
