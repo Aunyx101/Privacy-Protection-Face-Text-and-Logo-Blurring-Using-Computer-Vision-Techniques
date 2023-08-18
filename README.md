@@ -24,4 +24,4 @@ With its three-pronged approach, the FCV Project addresses critical privacy cons
 
 # To utilize the complete project, including the code and essential files, download the complete folder from the following link:
 
-https://drive.google.com/file/d/1GQMtjgeO6Zz0SXc7JoaQjyajECXIV3T8/view?usp=drive_link
+https://drive.google.com/file/d/1GQMtjgeO6Zz0SXc7JoaQjyajECXIV3T8/view?usp=drive_link (626.6 MB Compressed)
